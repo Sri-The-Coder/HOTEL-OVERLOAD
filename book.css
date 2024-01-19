@@ -1,0 +1,48 @@
+
+   
+    
+    
+
+body{
+    background-color:rgb(185, 147, 24);
+    text-align:center;
+    
+
+}
+
+h3{
+    color:goldenrod;
+    background-color:gold;
+    border: 3px solid goldenrod;
+    font-family: 'Oswald', sans-serif;
+
+}
+label{
+    color:goldenrod;
+    background-color:gold;
+    border: 3px solid goldenrod;
+    font-family: 'Oswald', sans-serif;
+
+}
+input{
+    color:goldenrod;
+    background-color:gold;
+    border: 3px solid goldenrod;
+    font-family: 'Oswald', sans-serif;
+
+}
+span{
+    color:goldenrod;
+    background-color:gold;
+    border: 3px solid goldenrod;
+    font-family: 'Oswald', sans-serif;
+    
+}
+button{
+    color:goldenrod;
+    background-color:gold;
+    border: 3px solid goldenrod;
+    font-family: 'Oswald', sans-serif;
+    width:250px;
+    height:150px;
+}

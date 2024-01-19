@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(185, 147, 24);
+    text-align:center;
+    
+
+}
+#head1{
+    color:orange;
+    background-color:red;
+    border:3px solid orange;
+    font-family: 'Oswald', sans-serif;
+
+}
+#head2{
+    color:rgb(19, 255, 2);
+    background-color:yellow;
+    border:3px solid rgb(19, 255, 2);
+    font-family: 'Oswald', sans-serif;
+
+
+}
+#head3{
+    color:cyan;
+    background-color:blue;
+    border:3px solid cyan;
+    font-family: 'Oswald', sans-serif;
+}

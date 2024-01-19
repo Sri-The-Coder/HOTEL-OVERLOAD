@@ -1,0 +1,51 @@
+#head1{
+    text-align:center;
+    font-family: 'Oswald', sans-serif;
+    color:goldenrod;
+    background-color:gold;
+
+}
+body{
+    background-color:rgb(185, 147, 24);
+}
+#head2{
+    text-align:center;
+    font-family: 'Oswald', sans-serif;
+    color:goldenrod;
+    background-color:gold;
+}
+#head3{
+    text-align:center;
+    font-family: 'Oswald', sans-serif;
+    color:goldenrod;
+    background-color:gold;
+    
+}
+#linav{
+    display:inline-block;
+    padding-right:300px;
+}
+#head4{
+    text-align:center;
+    color:goldenrod;
+    background-color:gold;
+    font-family: 'Oswald', sans-serif;
+
+}
+#head5>img{
+    float:left;
+    
+
+}
+#head5{
+    padding:20px;
+    margin-left:10px;
+    color:goldenrod;
+    background-color:gold;
+    font-family: 'Oswald', sans-serif;
+}
+#head6{
+    color:goldenrod;
+    background-color:gold;
+    font-family: 'Oswald', sans-serif;
+}

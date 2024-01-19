@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HotelOverload Booking</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+      </style>
+      <link rel="stylesheet" href="book.css">
+</head>
+<body>
+    <h3>Before you book, HotelOverload advises you to find what room you need in the 
+        <a href="room.html">Rooms</a> page.
+    </h3>
+    <form>
+    <label >FirstName</label> 
+    <br>
+    <input type="text" required placeholder="FirstName" id="input">
+    <br><br>
+    <label>LastName</label> 
+    <br>
+    <input type="text" required placeholder="LastName"id="input">
+    <br><br>
+    <label>Age</label> 
+    <br>
+    <input type="number" required placeholder="1234567890"id="input">
+    <br><br>
+    <label>Number Of people in party(MAX 6 Including You, Otherwise must book
+        another side-room)</label>
+    <br><br>
+     <input type="radio" required name="party"><span>1</span>
+     <input type="radio" required name="party"><span>2</span>
+     <input type="radio" required name="party"><span>3</span>
+     <input type="radio" required name="party"><span>4</span>
+     <input type="radio" required name="party"><span>5</span>
+     <input type="radio" required name="party"><span>6</span>
+    <br><br>
+    <label>Pick A Room</label>
+    <select name="rooms">
+        <option value="Ruby Rank">
+            Ruby Rank-A shiny scarlet room.
+        </option>
+        <option value="Sapphire Rank">
+            Sapphire Rank-A playful yellow room.
+        </option>
+        <option value="Diamond Rank">
+            Diamond Rank-A royal skyblue room, made for kings.
+
+        </option>
+    </select>
+    <br><br>
+    <label>Check-In</label>
+    <input type="date">
+    <br><br>
+    <label>Check-Out</label>
+    <input type="date">
+    <br><br>
+    <label>Email Adress</label>
+    <input type="email" required placeholder="someoneexample@.com">
+    <br><br>
+    <label>Credit Card Information</label>
+    <input type="number" required placeholder="XXXX XXXX XXXX XXXX">
+    <br><br>
+   
+   <a href="purchase.html"><button>Book</button></a>
+
+
+
+    </form>
+
+    
+</body>
+</html>
